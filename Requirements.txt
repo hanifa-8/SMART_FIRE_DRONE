@@ -1,0 +1,17 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install python-pip
+sudo apt-get install python-dev
+sudo pip install future
+sudo apt-get install screen python-wxgtk4.0 python-lxml
+pip3 install pyserial
+pip3 install dronekit
+pip3 install MAVProxy
+pip3 install pymavlink
+pip3 install geopy
+pip3 install numpy
+pip3 install opencv-python
+pip3 install tflite-runtime
+pip3 install RPi.GPIO
+sudo nano /boot/config.txt  - enter - [below enable_uart=1 write dtoverlay=disable-bt]
+
