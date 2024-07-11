@@ -4,12 +4,12 @@ CNN Powered Autonomous Fire Detection and Suppression System.
 BACKGROUND:The smart fire drone offers a transformative solution to the challenges of traditional firefighting methods. By autonomously responding to distress SOS alerts and swiftly navigating to the scene, it overcomes the delays caused by traffic congestion and navigation difficulties. Equipped with advanced technology, including computer vision algorithms, it rapidly detects fires and initiates firefighting measures, all without endangering human lives. In essence, the smart fire drone serves as a proactive guardian against the devastation caused by fires. Its rapid response, precise detection, autonomous operation, efficient suppression capabilities help minimize property damage, save lives, and protect the environment, making it a crucial asset in firefighting operations.
 
 ## Features
-Autonomous Navigation: Utilizes Pixhawk 2.4.8 flight controller for precise movement and GPS data for location tracking.
-Emergency SMS Alerts: Receives and processes SOS alerts via GSM SIM800L module.
-Fire Detection: Equipped with a webcam and a Convolutional Neural Network (CNN) model running on Raspberry Pi for accurate fire detection.
-360-degree Scanning: Performs a comprehensive sweep by rotating in all four directions.
-Fire Suppression: Deploys an ABC dry chemical via a servo-controlled mechanism upon fire detection.
-Live Video Streaming: Shares real-time video feed with the fire department for remote situational awareness.
+-Autonomous Navigation: Utilizes Pixhawk 2.4.8 flight controller for precise movement and GPS data for location tracking.
+-Emergency SMS Alerts: Receives and processes SOS alerts via GSM SIM800L module.
+-Fire Detection: Equipped with a webcam and a Convolutional Neural Network (CNN) model running on Raspberry Pi for accurate fire detection.
+-360-degree Scanning: Performs a comprehensive sweep by rotating in all four directions.
+-Fire Suppression: Deploys an ABC dry chemical via a servo-controlled mechanism upon fire detection.
+-Live Video Streaming: Shares real-time video feed with the fire department for remote situational awareness.
 
 ## Process
 
